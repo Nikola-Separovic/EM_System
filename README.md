@@ -32,28 +32,24 @@ A full-stack web application for managing employee information, built with React
 ### Employee Dashboard
 ![Employee Dashboard](screenshots/screenshot1.png)
 
-### Employee List
 ![Employee List](screenshots/screenshot2.png)
 
 ### Employee Profile
 ![Employee Profile](screenshots/screenshot3.png)
 
-### Add Employee Form
 ![Add Employee](screenshots/screenshot4.png)
 
-### Edit Employee
+### Add New Employee
 ![Edit Employee](screenshots/screenshot5.png)
 
-### File Upload System
 ![File Upload](screenshots/screenshot6.png)
 
-### Role Management
+### Edit Employee
 ![Role Management](screenshots/screenshot7.png)
 
-### User Authentication
+###  Search and filter
 ![Authentication](screenshots/screenshot8.png)
 
-### System Overview
 ![System Overview](screenshots/screenshot9.png)
 
 ## Installation
