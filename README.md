@@ -2,31 +2,6 @@
 
 A full-stack web application for managing employee information, built with React (TypeScript) for the frontend and Node.js (Express + TypeScript) for the backend.
 
-## Features
-
-- Employee CRUD Operations
-- Employee Profile Management
-- File Upload System
-- Modern and Responsive UI
-- Secure Authentication
-- Role-based Access Control
-
-## Tech Stack
-
-### Frontend
-- React with TypeScript
-- Tailwind CSS for styling
-- Vite as build tool
-- React Router for navigation
-- React Query for state management
-
-### Backend
-- Node.js with TypeScript
-- Express.js framework
-- SQL Server for database
-- JWT for authentication
-- Multer for file uploads
-
 ## Screenshots
 
 ### Employee Dashboard
@@ -51,6 +26,31 @@ A full-stack web application for managing employee information, built with React
 ![Authentication](screenshots/screenshot8.png)
 
 ![System Overview](screenshots/screenshot9.png)
+
+## Features
+
+- Employee CRUD Operations
+- Employee Profile Management
+- File Upload System
+- Modern and Responsive UI
+- Secure Authentication
+- Role-based Access Control
+
+## Tech Stack
+
+### Frontend
+- React with TypeScript
+- Tailwind CSS for styling
+- Vite as build tool
+- React Router for navigation
+- React Query for state management
+
+### Backend
+- Node.js with TypeScript
+- Express.js framework
+- SQL Server for database
+- JWT for authentication
+- Multer for file uploads
 
 ## Installation
 
